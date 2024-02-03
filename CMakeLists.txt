@@ -46,3 +46,9 @@ add_executable(namespaces src/namespaces.cpp)
 
 # Compiling bootcamp demo code
 add_executable(s24_my_ptr src/spring2024/s24_my_ptr.cpp)
+
+# Singheart's test
+add_executable(function src/function.cpp)
+add_executable(hash_with_function src/hash_with_function.cpp)
+add_executable(hash_with_operator src/hash_with_operator.cpp)
+add_executable(hash_with_template src/hash_with_template.cpp)

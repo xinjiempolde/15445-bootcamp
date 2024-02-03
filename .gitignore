@@ -42,3 +42,8 @@ todo.txt
 
 # Cache
 .cache/
+
+# clion
+.idea/
+cmake-build-debug
+.clang-format
